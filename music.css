@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: rgb(175, 174, 174);
+}
+#h1 {
+  background-color: rgb(3, 24, 44);
+  color: white;
+  margin: 1px;
+  padding: 15px;
+}
+
+nav {
+  padding: 15px;
+  background-color: rgb(97, 8, 8);
+  color: black;
+}
+a {
+  margin: -1px;
+  padding: 10px;
+  color: white;
+  font-family: serif;
+  font-size: larger;
+}
+#m1 {
+  color: black;
+  font-size: 35px;
+  background-color: greenyellow;
+  margin: 50px;
+  padding: 1px;
+  float: left;
+  font-family: serif;
+}

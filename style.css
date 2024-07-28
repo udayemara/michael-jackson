@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: rgb(243, 123, 123);
+}
+#na {
+  background-color: rgb(3, 24, 44);
+  color: white;
+  margin: 1px;
+  padding: 15px;
+}
+#im {
+  height: 450px;
+  width: 450px;
+}
+nav {
+  padding: 15px;
+  background-color: rgb(97, 8, 8);
+  color: black;
+}
+a {
+  margin: -1px;
+  padding: 10px;
+  color: white;
+  font-family: serif;
+  font-size: larger;
+}
